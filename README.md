@@ -1,6 +1,6 @@
 # Movie Search App
 
-Watch the video on the link below.
+- Watch the video on the link below.
 If you want to run the app locally. 
 1.Run git clone "https"
 2. Open two command windows
